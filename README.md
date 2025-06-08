@@ -1,1 +1,1 @@
-# PCStore
+# PCStore Project /w Kafka Integration
